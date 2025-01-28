@@ -8,6 +8,9 @@ import android.widget.TextView
 import androidx.fragment.app.Fragment
 import androidx.transition.TransitionInflater
 
+/**
+ * Fragmento para mostrar las valoraciones de una cafetería.
+ */
 class Valoraciones : Fragment() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -19,6 +22,7 @@ class Valoraciones : Fragment() {
         exitTransition = TransitionInflater.from(requireContext())
             .inflateTransition(android.R.transition.slide_right)
     }
+
 
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,

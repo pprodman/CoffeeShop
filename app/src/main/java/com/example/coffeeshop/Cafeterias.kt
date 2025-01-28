@@ -11,6 +11,10 @@ import androidx.recyclerview.widget.RecyclerView
 import com.example.coffeeshop.adapter.CoffeeShopAdapter
 import com.example.coffeeshop.model.CoffeeShopProvider
 
+/**
+ * Fragmento para mostrar la lista de Cafeterias.
+ * @property adapter El adaptador para el RecyclerView.
+ */
 class Cafeterias : Fragment() {
 
     private lateinit var adapter: CoffeeShopAdapter
