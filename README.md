@@ -9,10 +9,10 @@ CoffeeShop es una aplicación móvil desarrollada en **Kotlin** que permite a lo
 - Los usuarios pueden dejar calificaciones.
 - Diseño optimizado para fluidez y rendimiento.
 
-## 📂Documentación
+## 📂 Documentación
 - [Documentación](./DOCUMENTACION.md) 📖: Documentación del proyecto CoffeeShop.
 
-## 🏗️Estrategias de Pruebas
+## 🏗️ Estrategias de Pruebas
 Definir un plan de pruebas para garantizar la calidad y rendimiento de la aplicación de imágenes en Android, asegurando su correcto funcionamiento bajo diferentes escenarios.
 
 - [Pruebas de Integración](./PRUEBAS_INTEGRACION.md)
