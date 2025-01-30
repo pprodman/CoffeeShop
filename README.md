@@ -1,7 +1,7 @@
 # CoffeeShop App ☕
 
 ## 📌 Descripción
-CoffeeShop es una aplicación móvil desarrollada en **Kotlin** que permite a los usuarios explorar, calificar cafeterías.
+CoffeeShop es una aplicación móvil desarrollada en **Kotlin** que permite a los usuarios explorar y calificar cafeterías.
 
 ## 🚀 Características
 - Visualización de cafeterías en una lista interactiva utilizando RecyclerView.
