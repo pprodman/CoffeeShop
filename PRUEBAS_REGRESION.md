@@ -1,7 +1,8 @@
 # Pruebas de Regresión
 
 ## **Objetivo**
-Asegurar que nuevas modificaciones en el código no afectan funcionalidades previas.
+- Detectar si los cambios recientes en el código han afectado funcionalidades previamente implementadas.
+- Evitar la reintroducción de errores en partes ya probadas de la aplicación.
 
 ## **Casos de Prueba**
 ### **1. Verificación de transiciones tras modificaciones**
