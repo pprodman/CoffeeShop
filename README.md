@@ -1,21 +1,16 @@
-
 # CoffeeShop App
 
 ## Descripción
-Aplicación **Android** que muestra una lista de imágenes en un `RecyclerView` y permite seleccionar una para extraer su paleta de colores mediante la biblioteca `Palette`.
+CoffeeShop es una aplicación móvil desarrollada en **Kotlin** que permite a los usuarios explorar, calificar cafeterías.
 
 ## Características
-
-- `RecyclerView` con imágenes.
-
-- Transiciones animadas entre actividades.
-
-- Extracción de colores mediante `Palette`.
-
+- Visualización de cafeterías en una lista interactiva utilizando RecyclerView.
+- Transiciones entre fragmentos.
+- Los usuarios pueden dejar calificaciones.
 - Diseño optimizado para fluidez y rendimiento.
 
 ## Documentación
-- [Documentación](./DOCUMENTACION.md) 📖: Documentación del proyecto Palette.
+- [Documentación](./DOCUMENTACION.md) 📖: Documentación del proyecto CoffeeShop.
 
 ## Estrategias de Pruebas
 Definir un plan de pruebas para garantizar la calidad y rendimiento de la aplicación de imágenes en Android, asegurando su correcto funcionamiento bajo diferentes escenarios.
