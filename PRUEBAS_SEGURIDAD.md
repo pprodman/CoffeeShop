@@ -1,6 +1,6 @@
 # Pruebas de Seguridad
 
-## **Casos de Prueba:**
+## **Casos de Prueba**
 ### **1 Prueba de Sanitización de Entrada**
 - **Escenario:** Asegurar que los inputs no permiten inyecciones de código malicioso.
 - **Resultado esperado:** La aplicación muestra solo texto limpio sin ejecutar scripts.
