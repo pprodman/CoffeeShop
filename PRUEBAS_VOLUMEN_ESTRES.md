@@ -1,6 +1,10 @@
 
 # Pruebas de Volumen y Estrés
 
+## **Objetivo:**
+- Evaluar el rendimiento de la aplicación cuando maneja grandes volúmenes de datos.
+- Identificar cuellos de botella y posibles problemas de estabilidad en condiciones extremas.
+
 ## **Casos de Prueba:**
 ### **1 Prueba de Carga Masiva**
 - **Escenario:** Cargar un gran número de cafeterías en la aplicación.
