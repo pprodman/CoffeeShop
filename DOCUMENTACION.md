@@ -1,4 +1,4 @@
-# Documentación del Proyecto CoffeeShop
+# Documentación del Proyecto CoffeeShop ☕
 
 ## 📌 Descripción
 Este documento detalla la estructura del código del proyecto **CoffeeShop**, incluyendo las clases principales, su ubicación en el paquete y sus métodos esenciales.
