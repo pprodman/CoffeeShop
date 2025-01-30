@@ -1,6 +1,6 @@
 # Pruebas de Uso
 
-## **Casos de Prueba:**
+## **Casos de Prueba**
 ### **1 Simulación del Flujo Completo de Usuario**
 - **Escenario:** Evaluar la experiencia del usuario en un recorrido completo por la aplicación.
 - **Resultado esperado:** El flujo es intuitivo y sin errores.
