@@ -7,6 +7,8 @@ Este documento detalla la estructura del código del proyecto **CoffeeShop**, in
 
 ## 📂 Paquete: `com.example.coffeeshop`
 
+## Clases Principales
+
 ### 🏷️ `MainActivity`
 - **Ubicación:** `com.example.coffeeshop`
 - **Descripción:** Actividad principal que gestiona la lista de cafeterías y la navegación entre pantallas.
