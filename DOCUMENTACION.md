@@ -17,7 +17,7 @@ Este documento detalla la estructura del código del proyecto **CoffeeShop**, in
 
 ---
 
-### 🏷️ `CafeteriasFragment`
+### 🏷️ `Cafeterias`
 - **Ubicación:** `com.example.coffeeshop.fragments`
 - **Descripción:** Fragmento que muestra la lista de cafeterías disponibles en la aplicación.
 - **Métodos principales:**
@@ -27,7 +27,7 @@ Este documento detalla la estructura del código del proyecto **CoffeeShop**, in
 
 ---
 
-### 🏷️ `ValoracionesFragment`
+### 🏷️ `Valoraciones`
 - **Ubicación:** `com.example.coffeeshop.fragments`
 - **Descripción:** Fragmento que permite a los usuarios calificar y ver las valoraciones de una cafetería.
 - **Métodos principales:**
