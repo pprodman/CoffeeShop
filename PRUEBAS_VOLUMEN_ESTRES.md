@@ -6,7 +6,7 @@
 - Identificar cuellos de botella y posibles problemas de estabilidad en condiciones extremas.
 
 ## **Casos de Prueba:**
-### **1 Prueba de Carga Masiva**
+### **1. Prueba de Carga Masiva**
 - **Escenario:** Cargar un gran número de cafeterías en la aplicación.
 - **Pasos:**
   1. Generar 500 elementos de prueba.
