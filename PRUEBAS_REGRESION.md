@@ -1,10 +1,10 @@
 # Pruebas de Regresión
 
-## **Objetivo:**
+## **Objetivo**
 Asegurar que nuevas modificaciones en el código no afectan funcionalidades previas.
 
-## **Casos de Prueba:**
-### **1 Verificación de transiciones tras modificaciones**
+## **Casos de Prueba**
+### **1. Verificación de transiciones tras modificaciones**
 - **Escenario:** Después de actualizar las transiciones entre fragmentos.
 - **Pasos:**
   1. Navegar entre `Cafeterias` y `Valoraciones` varias veces.
@@ -22,7 +22,7 @@ fun testFragmentTransition() {
         .check(matches(isDisplayed()))
 }
 ```
-### **2 Validación del Sistema de Rating**
+### **2. Validación del Sistema de Rating**
 - **Escenario:** Confirmar que el valor de calificación se almacena y actualiza correctamente.
 - **Pasos:**
   1. Seleccionar una cafetería.
