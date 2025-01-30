@@ -1,10 +1,11 @@
-# 1. Pruebas de Integración
+# Pruebas de Integración
 
 ## **Objetivo:**
-Verificar la comunicación entre los distintos componentes de la aplicación, asegurando que trabajan correctamente en conjunto.
+- Validar la correcta interacción entre los distintos componentes de la aplicación (UI, navegación, bases de datos, servicios, etc.).
+- Asegurar que los datos fluyen correctamente entre las pantallas sin errores.
 
 ## **Casos de Prueba:**
-### **1 Integración del RecyclerView con el Adaptador**
+### **1. Integración del RecyclerView con el Adaptador**
 - **Escenario:** La lista de cafeterías debe mostrarse correctamente en el RecyclerView.
 - **Pasos:**
   1. Iniciar la aplicación.
@@ -24,7 +25,7 @@ fun testRecyclerViewDisplaysItems() {
 }
 ```
 
-### **2 Integración de la navegación entre fragmentos**
+### **2. Integración de la navegación entre fragmentos**
 - **Escenario:** Navegación desde `Cafeterias` a `Valoraciones`.
 - **Pasos:**
   1. Hacer clic en una cafetería.
@@ -44,7 +45,7 @@ fun testNavigationToValoraciones() {
 }
 ```
 
-### **3 Pruebas de Navegación**
+### **3. Pruebas de Navegación**
 - **Escenario:** Validar navegación y transiciones visuales entre pantallas.
 - **Pasos:**
   1. Seleccionar una cafetería de la lista.
