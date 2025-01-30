@@ -24,7 +24,7 @@ fun testRecyclerViewDisplaysItems() {
 }
 ```
 
-#### **2 Integración de la navegación entre fragmentos**
+### **2 Integración de la navegación entre fragmentos**
 - **Escenario:** Navegación desde `Cafeterias` a `Valoraciones`.
 - **Pasos:**
   1. Hacer clic en una cafetería.
