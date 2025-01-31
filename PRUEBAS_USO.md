@@ -1,4 +1,4 @@
-# Pruebas de Uso
+# 🎭 Pruebas de Uso
 ## **Objetivo:**
 - Verificar que la aplicación sea intuitiva y fácil de usar para los usuarios finales.
 - Asegurar que los elementos interactivos sean accesibles y funcionales en distintos escenarios.
