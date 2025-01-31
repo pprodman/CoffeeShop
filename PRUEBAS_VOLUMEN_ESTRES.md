@@ -1,5 +1,5 @@
 
-# Pruebas de Volumen y Estrés
+# 🔄 Pruebas de Volumen y Estrés
 
 ## **Objetivo:**
 - Evaluar el rendimiento de la aplicación cuando maneja grandes volúmenes de datos.
@@ -9,9 +9,9 @@
 ### **1. Prueba de Carga Masiva**
 - **Escenario:** Cargar un gran número de cafeterías en la aplicación.
 - **Pasos:**
-  1. Generar 500 elementos de prueba.
-  2. Cargar la lista en el RecyclerView.
-  3. Medir el tiempo de carga.
+  - Generar 500 elementos de prueba.
+  - Cargar la lista en el RecyclerView.
+  - Medir el tiempo de carga.
 - **Resultado esperado:** Carga en menos de 1 segundo.
 
 ```kotlin
