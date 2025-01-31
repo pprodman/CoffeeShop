@@ -1,4 +1,4 @@
-# Pruebas de Integración
+# 🧪 Pruebas de Integración 
 
 ## **Objetivo:**
 - Validar la correcta interacción entre los distintos componentes de la aplicación (UI, navegación, bases de datos, servicios, etc.).
