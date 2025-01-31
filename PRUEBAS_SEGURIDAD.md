@@ -1,4 +1,4 @@
-# Pruebas de Seguridad
+# 🔒 Pruebas de Seguridad
 
 ## **Objetivo:**
 - Proteger la aplicación contra ataques como inyección de código, manipulación de datos y accesos indebidos.
