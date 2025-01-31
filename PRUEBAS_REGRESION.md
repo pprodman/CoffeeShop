@@ -1,4 +1,4 @@
-# Pruebas de Regresión
+# 🔄 Pruebas de Regresión
 
 ## **Objetivo:**
 - Detectar si los cambios recientes en el código han afectado funcionalidades previamente implementadas.
@@ -8,8 +8,8 @@
 ### **1. Verificación de transiciones tras modificaciones**
 - **Escenario:** Después de actualizar las transiciones entre fragmentos.
 - **Pasos:**
-  1. Navegar entre `Cafeterias` y `Valoraciones` varias veces.
-  2. Observar si la animación se ejecuta correctamente.
+  - Navegar entre `Cafeterias` y `Valoraciones` varias veces.
+  - Observar si la animación se ejecuta correctamente.
 - **Herramientas:** UI Automator, Espresso.
 - **Resultado esperado:** La transición es fluida y sin errores.
 
@@ -26,9 +26,9 @@ fun testFragmentTransition() {
 ### **2. Validación del Sistema de Rating**
 - **Escenario:** Confirmar que el valor de calificación se almacena y actualiza correctamente.
 - **Pasos:**
-  1. Seleccionar una cafetería.
-  2. Cambiar la puntuación en el RatingBar.
-  3. Verificar que el nuevo valor se guarda y muestra correctamente.
+  - Seleccionar una cafetería.
+  - Cambiar la puntuación en el RatingBar.
+  - Verificar que el nuevo valor se guarda y muestra correctamente.
 - **Resultado esperado:** La puntuación se almacena sin errores.
 
 ```kotlin
