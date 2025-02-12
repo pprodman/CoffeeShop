@@ -3,8 +3,8 @@
 
 ## Índice
 
-1. [Configura la app para lanzamiento](#1.-configura-la-app-para-lanzamiento)
-2. [Crear el a archivo Keystore](#2.-crear-el-archivo-keystore)
+1. [Configura la app para lanzamiento](#1-configura-la-app-para-lanzamiento)
+2. [Crear el a archivo Keystore](#2-crear-el-archivo-keystore)
 3. [Instalación](#instalación)
 4. [Primeros Pasos](#primeros-pasos)
 5. [Navegación por la Aplicación](#navegación-por-la-aplicación)
