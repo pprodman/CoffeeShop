@@ -41,3 +41,4 @@ Definir un plan de pruebas para garantizar la calidad y rendimiento de la aplica
 
 ## 🚀 Lanzamiento de la APP
 - [Pasos a seguir para el lanzamiento de la APP](./LANZAMIENTO.md)
+- [APK y Bundles](https://github.com/pprodman/CoffeeShop/tree/master/build)
