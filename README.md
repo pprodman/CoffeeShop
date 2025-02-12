@@ -5,7 +5,7 @@ CoffeeShop es una aplicación móvil desarrollada en **Kotlin** que permite a lo
 
 🎥 [Ver video en Youtube](https://www.youtube.com/shorts/mrcvX08uODA)
 
-## 🚀 Características
+## 📱 Características
 - Visualización de cafeterías en una lista interactiva utilizando RecyclerView.
 - Transiciones entre fragmentos.
 - Los usuarios pueden dejar calificaciones.
@@ -38,3 +38,6 @@ Definir un plan de pruebas para garantizar la calidad y rendimiento de la aplica
 - Abre el proyecto en Android Studio.
 
 - Compila y ejecuta en un emulador o dispositivo físico.
+
+  ## 🚀 Lanzamiento de la APP
+  -[Paso a seguir para el lanzamiento de la APP](.LANZAMIENTO.md)
