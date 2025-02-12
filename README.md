@@ -39,5 +39,5 @@ Definir un plan de pruebas para garantizar la calidad y rendimiento de la aplica
 
 - Compila y ejecuta en un emulador o dispositivo físico.
 
-  ## 🚀 Lanzamiento de la APP
-  -[Paso a seguir para el lanzamiento de la APP](.LANZAMIENTO.md)
+## 🚀 Lanzamiento de la APP
+-[Paso a seguir para el lanzamiento de la APP](.LANZAMIENTO.md)
