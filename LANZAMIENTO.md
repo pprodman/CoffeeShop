@@ -9,9 +9,11 @@
 4. [Generar el APK firmado](#4-generar-el-apk-firmado)
 5. [Verificar el APK firmado](#5-verificar-el-apk-firmado)
 6. [Testea la versión de lanzamiento](#6-testea-la-versión-de-lanzamiento)
-7. [Creditos](#creditos)
+7. [Actualiza los recursos de la aplicación](#7-actualiza-los-recursos-de-la-aplicación)
+8. [Prepara los servidores y servicios remotos](#8-prepara-los-servidores-y-servicios-remotos)
+9. [Lanzamiento de la Aplicación](#9-lanzamiento-de-la-aplicación)
 
-## **1. Configura la app para lanzamiento**
+## **🏷️ 1. Configura la app para lanzamiento**
 
 ### **a. Desactivar el registro (logs) y modo depurable**
 Para asegurarte de que tu aplicación no exponga información sensible en producción, desactiva los registros y el modo depurable.
@@ -48,7 +50,7 @@ android {
 
 ---
 
-## **2. Crear el archivo Keystore**
+## **🏷️ 2. Crear el archivo Keystore**
 
 El archivo **Keystore** es necesario para firmar tu APK o AAB. Contiene las claves privadas que identifican tu aplicación como única en Google Play.
 
@@ -90,7 +92,7 @@ Si prefieres usar la herramienta `keytool` desde la línea de comandos, sigue es
 
 ---
 
-## **3. Configurar la firma en Gradle**
+## **🏷️ 3. Configurar la firma en Gradle**
 
 Una vez que tengas el archivo Keystore, configúralo en tu archivo `build.gradle` para automatizar el proceso de firma.
 
@@ -115,7 +117,7 @@ android {
 
 ---
 
-## **4. Generar el APK firmado**
+## **🏷️ 4. Generar el APK firmado**
 
 ### **Opción 1: Usar Android Studio**
 1. Ve al menú superior y selecciona:
@@ -147,7 +149,7 @@ android {
 
 ---
 
-## **5. Verificar el APK firmado**
+## **🏷️ 5. Verificar el APK firmado**
 
 Para asegurarte de que el APK esté correctamente firmado, usa la herramienta `apksigner`:
 
@@ -166,7 +168,7 @@ Para asegurarte de que el APK esté correctamente firmado, usa la herramienta `a
 
 ---
 
-## **6. Testea la versión de lanzamiento**
+## **🏷️ 6. Testea la versión de lanzamiento**
 
 ### **a. Pruebas manuales**
 Instala la versión de lanzamiento en un dispositivo físico o emulador:
@@ -182,7 +184,7 @@ Usa Firebase Test Lab para ejecutar pruebas automatizadas en múltiples disposit
 
 ---
 
-## **7. Actualiza los recursos de la aplicación**
+## **🏷️ 7. Actualiza los recursos de la aplicación**
 
 ### **a. Archivos multimedia y gráficos**
 - Asegúrate de que todos los recursos (imágenes, videos, etc.) estén optimizados para producción.
@@ -193,7 +195,7 @@ Usa Firebase Test Lab para ejecutar pruebas automatizadas en múltiples disposit
 
 ---
 
-## **8. Prepara los servidores y servicios remotos**
+## **🏷️ 8. Prepara los servidores y servicios remotos**
 
 ### **a. Verifica la seguridad**
 - Asegúrate de que los servidores usen conexiones seguras (HTTPS).
@@ -205,7 +207,7 @@ Usa Firebase Test Lab para ejecutar pruebas automatizadas en múltiples disposit
 
 ---
 
-## **9. Lanzamiento de la Aplicación**
+## **🏷️ 9. Lanzamiento de la Aplicación**
 
 ### **a. Lanzamiento en Google Play**
 Google Play es el mercado de aplicaciones más grande y popular para Android, lo que lo convierte en la opción ideal si deseas alcanzar una audiencia global. Aquí tienes los pasos para publicar tu aplicación en Google Play:
