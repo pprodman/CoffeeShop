@@ -5,16 +5,10 @@
 
 1. [Configura la app para lanzamiento](#1-configura-la-app-para-lanzamiento)
 2. [Crear el a archivo Keystore](#2-crear-el-archivo-keystore)
-3. [Instalación](#instalación)
-4. [Primeros Pasos](#primeros-pasos)
-5. [Navegación por la Aplicación](#navegación-por-la-aplicación)
-   - [Menú Principal](#1-menú-principal)
-   - [Game](#2-game)
-   - [New Player](#3-new-player)
-   - [Preferences](#4-preferences)
-   - [About](#5-about)
-   - [Configuración](#6-configuración)
-6. [Notas del Estudiante](#notas-del-estudiante)
+3. [Configurar la firma en Gradle](#3-configurar-la-firma-en-gradle)
+4. [Generar el APK firmado](#4-generar-el-apk-firmado)
+5. [Verificar el APK firmado](#5-verificar-el-apk-firmado)
+6. [Testea la versión de lanzamiento](#6-testea-la-version-de-lanzamiento)
 7. [Creditos](#creditos)
 
 ## **1. Configura la app para lanzamiento**
@@ -96,7 +90,7 @@ Si prefieres usar la herramienta `keytool` desde la línea de comandos, sigue es
 
 ---
 
-## **3: Configurar la firma en Gradle**
+## **3. Configurar la firma en Gradle**
 
 Una vez que tengas el archivo Keystore, configúralo en tu archivo `build.gradle` para automatizar el proceso de firma.
 
@@ -121,7 +115,7 @@ android {
 
 ---
 
-## **4: Generar el APK firmado**
+## **4. Generar el APK firmado**
 
 ### **Opción 1: Usar Android Studio**
 1. Ve al menú superior y selecciona:
