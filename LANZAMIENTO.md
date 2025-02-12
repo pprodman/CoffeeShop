@@ -1,6 +1,22 @@
 
 # Lanzamiento de la APP 🚀
 
+## Índice
+
+1. [Configura la app para lanzamiento](#configura-la-app-para-lanzamiento)
+2. [Crear el a archivo Keystore](#crear-el-archivo-keystore)
+3. [Instalación](#instalación)
+4. [Primeros Pasos](#primeros-pasos)
+5. [Navegación por la Aplicación](#navegación-por-la-aplicación)
+   - [Menú Principal](#1-menú-principal)
+   - [Game](#2-game)
+   - [New Player](#3-new-player)
+   - [Preferences](#4-preferences)
+   - [About](#5-about)
+   - [Configuración](#6-configuración)
+6. [Notas del Estudiante](#notas-del-estudiante)
+7. [Creditos](#creditos)
+
 ## **1. Configura la app para lanzamiento**
 
 ### **a. Desactivar el registro (logs) y modo depurable**
