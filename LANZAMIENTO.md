@@ -13,6 +13,8 @@
 8. [Prepara los servidores y servicios remotos](#8-prepara-los-servidores-y-servicios-remotos)
 9. [Lanzamiento de la Aplicación](#9-lanzamiento-de-la-aplicación)
 
+---
+
 ## **🏷️ 1. Configura la app para lanzamiento**
 
 ### **a. Desactivar el registro (logs) y modo depurable**
