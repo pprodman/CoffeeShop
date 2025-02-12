@@ -8,7 +8,7 @@
 3. [Configurar la firma en Gradle](#3-configurar-la-firma-en-gradle)
 4. [Generar el APK firmado](#4-generar-el-apk-firmado)
 5. [Verificar el APK firmado](#5-verificar-el-apk-firmado)
-6. [Testea la versión de lanzamiento](#6-testea-la-version-de-lanzamiento)
+6. [Testea la versión de lanzamiento](#6-testea-la-versión-de-lanzamiento)
 7. [Creditos](#creditos)
 
 ## **1. Configura la app para lanzamiento**
