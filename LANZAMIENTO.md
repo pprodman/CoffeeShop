@@ -4,14 +4,14 @@
 ## Índice
 
 1. [Configura la app para lanzamiento](#%EF%B8%8F-1-configura-la-app-para-lanzamiento)
-2. [Crear el a archivo Keystore](#2-crear-el-archivo-keystore)
-3. [Configurar la firma en Gradle](#3-configurar-la-firma-en-gradle)
-4. [Generar el APK firmado](#4-generar-el-apk-firmado)
-5. [Verificar el APK firmado](#5-verificar-el-apk-firmado)
-6. [Testea la versión de lanzamiento](#6-testea-la-versión-de-lanzamiento)
-7. [Actualiza los recursos de la aplicación](#7-actualiza-los-recursos-de-la-aplicación)
-8. [Prepara los servidores y servicios remotos](#8-prepara-los-servidores-y-servicios-remotos)
-9. [Lanzamiento de la Aplicación](#9-lanzamiento-de-la-aplicación)
+2. [Crear el a archivo Keystore](#%EF%B8%8F-2-crear-el-archivo-keystore)
+3. [Configurar la firma en Gradle](#%EF%B8%8F-3-configurar-la-firma-en-gradle)
+4. [Generar el APK firmado](#%EF%B8%8F-4-generar-el-apk-firmado)
+5. [Verificar el APK firmado](#%EF%B8%8F-5-verificar-el-apk-firmado)
+6. [Testea la versión de lanzamiento](#%EF%B8%8F-6-testea-la-versión-de-lanzamiento)
+7. [Actualiza los recursos de la aplicación](#%EF%B8%8F-7-actualiza-los-recursos-de-la-aplicación)
+8. [Prepara los servidores y servicios remotos](#%EF%B8%8F-8-prepara-los-servidores-y-servicios-remotos)
+9. [Lanzamiento de la Aplicación](#%EF%B8%8F-9-lanzamiento-de-la-aplicación)
 
 ---
 
