@@ -3,7 +3,7 @@
 
 ## Índice
 
-1. [Configura la app para lanzamiento](#1-configura-la-app-para-lanzamiento)
+1. [Configura la app para lanzamiento](##%EF%B8%8F-1-configura-la-app-para-lanzamiento)
 2. [Crear el a archivo Keystore](#2-crear-el-archivo-keystore)
 3. [Configurar la firma en Gradle](#3-configurar-la-firma-en-gradle)
 4. [Generar el APK firmado](#4-generar-el-apk-firmado)
